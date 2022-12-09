@@ -1,6 +1,6 @@
 #include <stdio.h>
-/*
- * main - Entry point
+/**
+ * main - Entry point(c)
  *
  * Description: uppercase and lower case letters
  *
