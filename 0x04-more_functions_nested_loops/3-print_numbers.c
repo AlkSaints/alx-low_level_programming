@@ -1,7 +1,6 @@
 #include "main.h"
 /**
  * print_numbers - Entry
- * Return: void
  */
 void print_numbers(void)
 {
